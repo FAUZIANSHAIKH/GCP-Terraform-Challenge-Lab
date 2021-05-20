@@ -1,0 +1,1 @@
+terraform import module.instances.google_compute_instance.$1 $2
