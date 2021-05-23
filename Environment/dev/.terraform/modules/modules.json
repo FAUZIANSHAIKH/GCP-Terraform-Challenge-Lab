@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"instances","Source":"../../modules/instances","Dir":"../../modules/instances"},{"Key":"subnets","Source":"../../modules/subnets","Dir":"../../modules/subnets"},{"Key":"vpc","Source":"../../modules/vpcnetwork","Dir":"../../modules/vpcnetwork"},{"Key":"","Source":"","Dir":"."}]}
